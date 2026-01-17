@@ -25,6 +25,7 @@ Fully responsive for all devices
 <img width="940" height="168" alt="image" src="https://github.com/user-attachments/assets/83e0bf7a-9709-4ca6-aa2c-ba5e62e8f05b" />
 <img width="940" height="167" alt="image" src="https://github.com/user-attachments/assets/39d3f7c9-2f88-4e28-a18b-8391acd86d20" />
 <img width="940" height="306" alt="image" src="https://github.com/user-attachments/assets/5dda5c75-23fe-4299-bfe7-345076394354" />
-<img width="369" height="107" alt="image" src="https://github.com/user-attachments/assets/aef09be8-dd9f-471f-9b92-829a6695f9b0" />
-<img width="285" height="88" alt="image" src="https://github.com/user-attachments/assets/e6848dc8-fa5a-4deb-a8dd-4bd70b3b6c17" />
+<img width="470" height="107" alt="image" src="https://github.com/user-attachments/assets/aef09be8-dd9f-471f-9b92-829a6695f9b0" />
+<img width="470" height="107" alt="image" src="https://github.com/user-attachments/assets/e6848dc8-fa5a-4deb-a8dd-4bd70b3b6c17" />
+
 
